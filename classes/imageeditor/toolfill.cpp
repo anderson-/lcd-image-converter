@@ -27,6 +27,7 @@
 #include <QMouseEvent>
 #include <QToolButton>
 #include <QColorDialog>
+#include <QPainterPath>
 #include <QVector>
 #include <appsettings.h>
 #include "bitmaphelper.h"
